@@ -1,7 +1,7 @@
 {
 	"name": "RandomUselessFacts",
 	"version": "1.0.48",
-	"icon": "battle-net",
+	"icon": "fab fa-battle-net",
 	"author": "Psychokiller1888",
 	"maintainers": [
 		"maxbachmann"
