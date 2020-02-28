@@ -13,7 +13,7 @@ wget http://skills.projectalice.ch/RandomUselessFacts \
 ### Description
 Gets you the daily random useless fact or a random one
 
-- Version: 1.0.48
+- Version: 1.0.49
 - Author: Psychokiller1888
 - Maintainers:
   - maxbachmann
