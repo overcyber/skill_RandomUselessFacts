@@ -2,14 +2,6 @@
 
 [![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_RandomUselessFacts/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_RandomUselessFacts/pipelines/latest)
 
-### Download
-
-##### > WGET method
-```bash
-wget http://skills.projectalice.ch/RandomUselessFacts \
--O ~/ProjectAlice/system/skillInstallTickets/RandomUselessFacts.install
-```
-
 ### Description
 Gets you the daily random useless fact or a random one
 
