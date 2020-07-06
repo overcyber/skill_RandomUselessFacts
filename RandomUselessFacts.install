@@ -1,7 +1,7 @@
 {
 	"name": "RandomUselessFacts",
-	"version": "1.0.49",
-	"icon": "fab fa-battle-net",
+	"version": "1.0.50",
+	"icon": "fas fa-comment-dots",
 	"category": "entertainment",
 	"author": "Psychokiller1888",
 	"maintainers": [
@@ -13,7 +13,8 @@
 	"pipRequirements": [],
 	"conditions": {
 		"lang": [
-			"en"
+			"en",
+			"de"
 		],
 		"online": true
 	}
