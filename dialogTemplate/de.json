@@ -1,7 +1,5 @@
 {
 	"skill": "RandomUselessFacts",
-	"icon": "star",
-	"description": "Sagt den täglichen zufälligen sinnlosen Fakt, oder einen zufälligen",
 	"slotTypes": [
 		{
 			"name": "UselessFactsType",
@@ -36,7 +34,6 @@
 	"intents": [
 		{
 			"name": "GetUselessFact",
-			"description": "User is asking for a useless fact",
 			"enabledByDefault": true,
 			"utterances": [
 				"Ich benötige einen {zufälligen=>Type} sinnlosen Fakt",
@@ -56,7 +53,6 @@
 			"slots": [
 				{
 					"name": "Type",
-					"description": "Entweder heute oder zufällig",
 					"required": false,
 					"type": "UselessFactsType",
 					"missingQuestion": ""
