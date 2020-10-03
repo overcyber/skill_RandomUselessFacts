@@ -1,6 +1,6 @@
 {
     "name": "RandomUselessFacts",
-    "version": "1.0.52",
+    "version": "1.0.53",
     "icon": "fas fa-comment-dots",
     "category": "entertainment",
     "author": "Psychokiller1888",
@@ -8,7 +8,7 @@
         "maxbachmann"
     ],
     "desc": "Gets you the daily random useless fact or a random one",
-    "aliceMinVersion": "1.0.0-a4",
+    "aliceMinVersion": "1.0.0-b3",
     "systemRequirements": [],
     "pipRequirements": [],
     "conditions": {
