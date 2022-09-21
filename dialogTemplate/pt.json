@@ -10,30 +10,24 @@
 				{
 					"value": "today",
 					"synonyms": [
-<<<<<<< HEAD
 						"de hoje",
 						"este dia",
 						"estes dias",
-						"do dia"
-=======
+						"do dia",
 						"today's",
 						"this day",
 						"this day's",
 						"of the day"
->>>>>>> 4fa6329679865f1f81c620d3339a465983f01cae
 					]
 				},
 				{
 					"value": "random",
-<<<<<<< HEAD
 					"synonyms": [
 						"aleatório",
 						"randomico",
 						"qualquer"
-					]
-=======
+					],
 					"synonyms": []
->>>>>>> 4fa6329679865f1f81c620d3339a465983f01cae
 				}
 			]
 		}
@@ -43,15 +37,12 @@
 			"name": "GetUselessFact",
 			"enabledByDefault": true,
 			"utterances": [
-<<<<<<< HEAD
 				"me diga um {random=>Type} fato inútil",
 				"estou precisando de um {random=>Type} fato inútil",
 				"por favor, me dê {this day's=>Type} fato inútil",
-=======
 				"shoot me a {random=>Type} useless fact",
 				"i'm in need of a {random=>Type} useless fact",
 				"please give me {this day's=>Type} useless fact",
->>>>>>> 4fa6329679865f1f81c620d3339a465983f01cae
 				"let me hear the useless fact {of the day=>Type}",
 				"i need you to give me a useless fact",
 				"tell me a useless fact please",
